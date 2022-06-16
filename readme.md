@@ -56,5 +56,36 @@ progress to show others their fitness journey/transformation
 		i. Google Analytics- 
 https://analytics.google.com/analytics/web/provision/#/provision
 		ii. GtMetrix - https://gtmetrix.com
+## Website Content; Text and Images
+
+	a. Website Copy
+		i. Research Work
+			1. Get Fit (Text Templates)
+		ii. Text
+			1. Watch workout videos 
+				a. Abs
+				b. Arms
+				c. Legs
+				d. Back
+				e. Shoulders
+				f. Chest
+				g. Full Body
+			2. Buy workout equipment
+				a. Home gym equipment
+				b. Dumbbells
+				c. Clothing (Shorts, T-Shirts, Hoodies, etc)
+				d. Gym bags and Duffels
+				e. Shakes and Water bottles
+				f. Scales and body measurement
+				g. Weight lifting belts
+				h. Gloves
+				i. Straps, Wraps, and Grips
+				j. Resistance Bands
+			3. Be Part of our growing community
+				a. Allow users to leave reviews about products and workouts
+		
+
+			
+	
 
 	
