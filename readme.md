@@ -85,8 +85,8 @@
 			1. Shopify Burst - Image Bank -> Burst.shopify.com
 			2. Lorem Picsum -> Picsum.photos
 		iv. Tools
-			1. Lorem ipsum
-			2. Textise
+			1. Lorem ipsum -> lipsum.com
+			2. Textise -> textise.net
 		v. Accessibility
 			1. Closed captions on videos
 			2. Color combinations with good contrast
