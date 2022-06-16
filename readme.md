@@ -54,6 +54,7 @@
 		i. Google Analytics - https://analytics.google.com/analytics/web/provision/#/provision/
 		ii. GtMetrix - https://gtmetrix.com
 ## Website Content: Text and Images
+![E-Commerce Gym Website Site Map](https://github.com/Shehu-Muhammad/Module2-Planning/blob/3fdc95a779cb5e780a964294470e56bee17ed15a/Screen%20Shot%202022-06-15%20at%2011.25.25%20AM.png "E-Commerce Gym Website Site Map")
 
 	a. Website Copy
 		i. Research Work
