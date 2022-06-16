@@ -19,9 +19,7 @@
 		i. An ecommerce website
 ## Website Purpose and Goals
 	a. Purpose
-		i. Provide a free/subscription website to allow people to 
-find fitness information, purchase fitness equipment/gear, and post 
-progress to show others their fitness journey/transformation
+		i. Provide a free/subscription website to allow people to find fitness information, purchase fitness equipment/gear, and post progress to show others their fitness journey/transformation
 	b. Goals	
 		i. Primary Goals
 			1. Show different workout paths
