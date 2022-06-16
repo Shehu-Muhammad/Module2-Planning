@@ -81,7 +81,18 @@
 				j. Resistance Bands
 			3. Be Part of our growing community
 				a. Allow users to leave reviews about products and workouts
-		
+		iii. Images
+			1. Burst.shopify.com
+			2. Lorem picsum
+		iv. Tools
+			1. Lorem ipsum
+			2. Textise
+		v. Accessibility
+			1. Closed captions on videos
+			2. Color combinations with good contrast
+			3. Large links, buttons, and controls
+			4. Screenfly - Responsive (all devices)
+			5. SEOSitecheckup - loads fast		
 
 			
 	
