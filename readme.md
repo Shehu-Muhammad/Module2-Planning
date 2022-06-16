@@ -19,9 +19,7 @@
 		i. An ecommerce website
 ## Website Purpose and Goals
 	a. Purpose
-		i. Provide a free/subscription website to allow people to 
-find fitness information, purchase fitness equipment/gear, and post 
-progress to show others their fitness journey/transformation
+		i. Provide a free/subscription website to allow people to find fitness information, purchase fitness equipment/gear, and post progress to show others their fitness journey/transformation
 	b. Goals	
 		i. Primary Goals
 			1. Show different workout paths
@@ -53,8 +51,7 @@ progress to show others their fitness journey/transformation
 		ii. KPIs - Key Performance indicators
 			1. E.g., Number of Newsletters
 	e. Analytics
-		i. Google Analytics- 
-https://analytics.google.com/analytics/web/provision/#/provision
+		i. Google Analytics - https://analytics.google.com/analytics/web/provision/#/provision/
 		ii. GtMetrix - https://gtmetrix.com
 ## Website Content; Text and Images
 
