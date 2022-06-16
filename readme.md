@@ -82,8 +82,8 @@
 			3. Be Part of our growing community
 				a. Allow users to leave reviews about products and workouts
 		iii. Images
-			1. Burst.shopify.com
-			2. Lorem picsum
+			1. Shopify Burst - Image Bank -> Burst.shopify.com
+			2. Lorem Picsum -> Picsum.photos
 		iv. Tools
 			1. Lorem ipsum
 			2. Textise
