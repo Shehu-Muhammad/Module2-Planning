@@ -53,7 +53,7 @@
 	e. Analytics
 		i. Google Analytics - https://analytics.google.com/analytics/web/provision/#/provision/
 		ii. GtMetrix - https://gtmetrix.com
-## Website Content; Text and Images
+## Website Content: Text and Images
 
 	a. Website Copy
 		i. Research Work
