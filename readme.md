@@ -51,7 +51,7 @@
 		ii. KPIs - Key Performance indicators
 			1. E.g., Number of Newsletters
 	e. Analytics
-		i. [Google Analytics](https://analytics.google.com/analytics/web/provision/#/provision/)
+		i. Google Analytics - https://analytics.google.com/analytics/web/provision/#/provision/
 		ii. GtMetrix - https://gtmetrix.com
 
 	
