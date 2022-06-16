@@ -1,4 +1,4 @@
-1. E-commerce Gym Website
+# E-commerce Gym Website
 	a. Key Characteristics
 		i. Show workout routines
 			1. Full Body
