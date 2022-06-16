@@ -91,7 +91,7 @@
 			1. Closed captions on videos
 			2. Color combinations with good contrast
 			3. Large links, buttons, and controls
-			4. Screenfly - Responsive (all devices)
+			4. Screenfly - Responsive (all devices) -> bluetree.ai/screenfly/
 			5. SEOSitecheckup - loads fast		
 
 			
