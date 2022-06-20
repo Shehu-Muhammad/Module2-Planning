@@ -97,6 +97,7 @@
 			5. SEOSitecheckup - loads fast		
 
 			
-	
-
+![top of the figma](https://github.com/Shehu-Muhammad/Module2-Planning/blob/b71f6939cb585234d6811883bceea65abac5db27/images/top.png)
+![middle of the figma](https://github.com/Shehu-Muhammad/Module2-Planning/blob/b71f6939cb585234d6811883bceea65abac5db27/images/middle.png)
+![bottom of the figma](https://github.com/Shehu-Muhammad/Module2-Planning/blob/b71f6939cb585234d6811883bceea65abac5db27/images/bottom.png)
 	
