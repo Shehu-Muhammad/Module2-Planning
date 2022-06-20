@@ -15,6 +15,8 @@
 		ii. Website 2 - https://www.bodybuilding.com/
 			1. Shows different workout routines
 			2. Watch workout videos
+		iii. https://www.gq.com/story/best-abs-workouts-gq-ultimate-guide
+
 	c. Conclusion
 		i. An ecommerce website
 ## Website Purpose and Goals
