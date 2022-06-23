@@ -97,6 +97,9 @@
 			5. SEOSitecheckup - loads fast
 			
 	b. Target Audience: People who want to get in shape (stay healthy)
+	c. Layout Choice: I chose a navigation bar at the top so people do not get lost on my site. For the store page, I added pictures in the middle so it is the first thing my customers see. 
+	d. Typography: I have not added any of typography, yet.
+	e. Functionalities: Customers will be able to watch videos and purchase items
 
 			
 ![top of the figma](https://github.com/Shehu-Muhammad/Module2-Planning/blob/b71f6939cb585234d6811883bceea65abac5db27/images/top.png)
