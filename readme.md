@@ -94,7 +94,9 @@
 			2. Color combinations with good contrast
 			3. Large links, buttons, and controls
 			4. Screenfly - Responsive (all devices) -> bluetree.ai/screenfly/
-			5. SEOSitecheckup - loads fast		
+			5. SEOSitecheckup - loads fast
+			
+	b. Target Audience: People who want to get in shape (stay healthy)
 
 			
 ![top of the figma](https://github.com/Shehu-Muhammad/Module2-Planning/blob/b71f6939cb585234d6811883bceea65abac5db27/images/top.png)
