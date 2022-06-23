@@ -9,13 +9,18 @@
 		iii. Watch videos
 			1. Workout videos
 	b. Similar Websitees
-		i. Website 1 - https://www.muscleandfitness.com/
+		i. Website 1 - 
+[Muscle and fitness](https://www.muscleandfitness.com/)
+
 			1. Watch exercise videos
 			2. Allows person to create an account
-		ii. Website 2 - https://www.bodybuilding.com/
+		ii. Website 2 - 
+[Body Bulding](https://www.bodybuilding.com/)
+
 			1. Shows different workout routines
 			2. Watch workout videos
-		iii. https://www.gq.com/story/best-abs-workouts-gq-ultimate-guide
+		iii. Website 3-
+[GG Abs](https://www.gq.com/story/best-abs-workouts-gq-ultimate-guide)
 
 	c. Conclusion
 		i. An ecommerce website
