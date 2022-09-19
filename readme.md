@@ -113,4 +113,18 @@
 
 Link to figma prototype 
 [Gym Website](https://www.figma.com/file/ZgzaY6MgM6yQNnKvTIOCbN/Gym-Website?node-id=0%3A1)
-	
+
+## Authors
+* **Shehu Muhammad** - *Entire Project* - [Shehu Muhammad](https://github.com/Shehu-Muhammad)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgements
+* Inspiration was found from the websites listed below
+
+[Muscle and fitness](https://www.muscleandfitness.com/)
+
+[Body Bulding](https://www.bodybuilding.com/)
+
+[GG Abs](https://www.gq.com/story/best-abs-workouts-gq-ultimate-guide)
